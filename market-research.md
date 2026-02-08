@@ -123,3 +123,5 @@ Let's discuss:
 1. Which specific analytics features would you focus on?
 2. How do you plan to build this (learn to code, hire, no-code)?
 3. What's your monetization thinking?
+I would wasnt to fovus on the most simple anaylytic features, I plan to build this with no capital and with claude, honestly im not too sure on monetization, just want to build a good app with users and monetize from th
+
